@@ -1,1 +1,1 @@
-# Stock-Market-Player
+# Stock-Market-Player Artificial Intelligence
